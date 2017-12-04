@@ -1,7 +1,6 @@
-KBAIProj1Code
+Knowledge Based Artificial Intelligence Project 3
 =============
 
-Knowledge Based AI Project 1 Code
 
 
 See CS7637_ Overall Project Guidelines (Summer 2015).doc
