@@ -12,3 +12,8 @@ To run project:
 
 run RavensProject.py
 
+Default is running project 3.
+
+To run projects 1 or 2, copy and replace Agent.py in main directory from Project 1 or Project 2 folders
+
+To view projects 
