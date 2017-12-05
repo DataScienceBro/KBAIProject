@@ -1,6 +1,7 @@
-Knowledge Based Artificial Intelligence Project 3
+Knowledge Based Artificial Intelligence Projects
 =============
 
+I Built an AI agent which can solve Ravens Progressive Matrix problem using concepts such as Frames, Case-Based Reasoning and Means-Ends Analysis.
 
 
 See CS7637_ Overall Project Guidelines (Summer 2015).doc
